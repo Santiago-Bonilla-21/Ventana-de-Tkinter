@@ -10,7 +10,7 @@ frame1.configure(bg="sky blue", bd=20)
 frame1.place(x=10, y=10, width=480, height=280)
 
 frame2 = tkinter.Frame(ventana)
-frame2.configure(bg="sky blue", bd=20 )
+frame2.configure(bg="snow", bd=20 )
 frame2.place(x=510, y=10, width=480, height=280)
 
 frame3 = tkinter.Frame(ventana)
