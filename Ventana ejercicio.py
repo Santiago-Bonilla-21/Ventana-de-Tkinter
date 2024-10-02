@@ -2,7 +2,6 @@ import tkinter
 
 ventana = tkinter.Tk()
 ventana.title("Ventana ejercio")
-ventana.iconbitmap("Mail.ico")
 ventana.geometry("1000x600+250+100")
 
 
